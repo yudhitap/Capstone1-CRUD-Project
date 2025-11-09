@@ -8,3 +8,11 @@ This program contains 5 main menus
 * Menu 3: Modify employee data (Update
 * Menu 4: Delete employee data (Delete)
 * Menu 5: Exit Program
+---------------------------------------------
+If you find any mistakes or have any suggestions, please reach out to me, any feedback or suggestions are very welcome.
+
+- My Email - yudhitp@gmail.com
+
+- My LinkedIn profile - Profile
+
+### Thank you
